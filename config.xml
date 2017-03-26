@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget android-versionCode="243" id="com.konecty.rocket.chat" ios-CFBundleVersion="13" version="2.5.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0" xmlns:android="http://schemas.android.com/apk/res/android">
-    <name>Rocket.Chat</name>
+<widget android-versionCode="243" id="com.tuodata.chat" ios-CFBundleVersion="13" version="2.5.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0" xmlns:android="http://schemas.android.com/apk/res/android">
+    <name>Tuodata.Chat</name>
     <description>
-        Rocket.Chat mobile application
+        Tuodata.Chat mobile application
     </description>
-    <author email="support@rocket.chat" href="https://rocket.chat">
-        Rocket.Chat
+    <author email="melkor@163.com" href="https://www.tuodata.chat">
+        Tuodata.Chat
     </author>
     <content src="index.html" />
     <allow-intent href="http://*/*" />
