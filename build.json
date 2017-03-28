@@ -12,10 +12,10 @@
 
     "android": {
         "release": {
-            "keystore": "RocketChat.keystore",
-            "storePassword": "",
-            "alias": "RocketChat",
-            "password" : "",
+            "keystore": "TuodataChat.keystore",
+            "storePassword": "934111",
+            "alias": "TuodataChat",
+            "password" : "934111",
             "keystoreType": ""
         }
     }

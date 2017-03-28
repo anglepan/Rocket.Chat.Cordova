@@ -1,7 +1,7 @@
 {
-  "name": "rocket.chat.cordova",
+  "name": "tuodata.chat.cordova",
   "version": "0.0.1",
-  "description": "Rocket.Chat mobile applications",
+  "description": "Tuodata.Chat mobile applications",
   "main": "index.js",
   "dependencies": {
     "async": "^1.5.2",
@@ -20,12 +20,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/RocketChat/Rocket.Chat.Cordova.git"
+    "url": ""
   },
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/RocketChat/Rocket.Chat.Cordova/issues"
+    "url": "https://www.tuodata.com"
   },
-  "homepage": "https://github.com/RocketChat/Rocket.Chat.Cordova#readme"
+  "homepage": "https://www.tuodata.com"
 }
